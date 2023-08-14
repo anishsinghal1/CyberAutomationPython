@@ -27,7 +27,7 @@ with open("data/allow_list.txt", "r") as file:
 
 print(text)
 
-# Define the ip_addresses content
+# Can be utilized to rerun the program with the same text file contents
 ip_addresses = """ip address
 192.168.25.60
 192.168.205.12
